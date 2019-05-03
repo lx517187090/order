@@ -21,6 +21,9 @@ public class ProductInfo {
 
 	private BigDecimal productPrice;
 
+	/**
+	 *
+	 */
 	private int productStock;
 
 	private String productDescription;
